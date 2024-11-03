@@ -1,2 +1,12 @@
 
+<<<<<<< HEAD
 .DS_Store
+=======
+.env
+.DS_Store
+dags/config.py
+/dags/__pycache__
+github
+github.pub
+/logs
+>>>>>>> parent of 04c1aa1 (Revert "inital commit")
