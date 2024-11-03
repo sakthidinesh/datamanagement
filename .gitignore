@@ -1,8 +1,0 @@
-
-.env
-.DS_Store
-dags/config.py
-/dags/__pycache__
-github
-github.pub
-/logs
